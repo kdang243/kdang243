@@ -1,8 +1,12 @@
-## Hello hello! Welcome to my github 😄😄😄
+# Hello hello! Welcome to my github 😄😄😄
 
-My name's [Kevin Dang](https://kevin-portfolio-kta0.onrender.com/) - Bachelor of Science in Computer Science, UBC'24
+## My name's [Kevin Dang](https://kevin-portfolio-kta0.onrender.com/) - Bachelor of Science in Computer Science, UBC'24
 
-[[My Skills](https://skillicons.dev/icons?i=aws,python,d3,js,react,vue)](https://skillicons.dev)
+## My Skills: [![My Skills](https://skillicons.dev/icons?i=aws,python,react,graphql,js,d3,vue,selenium)](https://skillicons.dev)
+
+- ### Currently: I'm working on my AWS Solutions Architect Certification! [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+- ### Based in Toronto, ON
+- ### Little about me: Avid coffee nut. PS: You should try Vietnamese coffee, it's so strong you'd feel sick but good at the same time.
 
 <!--
 **kdang243/kdang243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
