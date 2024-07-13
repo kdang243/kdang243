@@ -2,7 +2,7 @@
 
 My name's [Kevin Dang](https://kevin-portfolio-kta0.onrender.com/) - Bachelor of Science in Computer Science, UBC'24
 
-[![My Skills](https://skillicons.dev/icons?i=aws,python,d3,js,react,vue)](https://skillicons.dev)
+[[My Skills](https://skillicons.dev/icons?i=aws,python,d3,js,react,vue)](https://skillicons.dev)
 
 <!--
 **kdang243/kdang243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
