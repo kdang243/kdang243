@@ -6,7 +6,8 @@
 
 - ### Currently: I'm working on my AWS Solutions Architect Certification! [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 - ### Based in Toronto, ON
-- ### Little about me: Avid coffee nut. PS: You should try Vietnamese coffee, it's so strong you'd feel sick but good at the same time.
+- ### Little about me: Avid coffee nut.
+- ### PS: You should try Vietnamese coffee, it's so strong you'd feel sick but good at the same time.
 
 <!--
 **kdang243/kdang243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
