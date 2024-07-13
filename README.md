@@ -2,9 +2,9 @@
 
 ## My name's [Kevin Dang](https://kevin-portfolio-kta0.onrender.com/) - Bachelor of Science in Computer Science, UBC'24
 
-## My Skills: [![My Skills](https://skillicons.dev/icons?i=aws,python,react,graphql,js,d3,vue,selenium)](https://skillicons.dev)
+## My Skills: [![My Skills](https://skillicons.dev/icons?i=aws,python,react,graphql,js,d3,vue,selenium)](https://drive.google.com/file/d/1uxtN4RPKTYw3AUbuNptKV4wdN9-hF2cf/view)
 
-- ### Currently: I'm working on my AWS Solutions Architect Certification! [![My Skills](https://skillicons.dev/icons?i=aws)](https://www.linkedin.com/in/ducanhkevindang/)
+- ### Currently: I'm working on my AWS Solutions Architect - Associate Certification! [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/certification/)
 - ### Based in Toronto, ON
 - ### Little about me: Avid coffee nut.
 - ### PS: You should try Vietnamese coffee, it's so strong you'd feel sick but good at the same time.
