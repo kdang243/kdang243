@@ -1,10 +1,8 @@
 ## Hello hello! Welcome to my github 😄😄😄
 
-My name's [Kevin Dang] (https://kevin-portfolio-kta0.onrender.com/) - Bachelor of Science in Computer Science, UBC'24
+My name's [Kevin Dang](https://kevin-portfolio-kta0.onrender.com/) - Bachelor of Science in Computer Science, UBC'24
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdang243)](https://github.com/kdang243/github-readme-stats)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdang243)](https://github.com/kdang243/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=aws,python,d3,js,react,vue)](https://skillicons.dev)
 
 <!--
 **kdang243/kdang243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
