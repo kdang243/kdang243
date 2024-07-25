@@ -1,6 +1,10 @@
 # Hello hello! Welcome to my github 😄😄😄
 
-My name's [Kevin Dang](https://kevin-portfolio-kta0.onrender.com/) - Bachelor of Science in Computer Science, UBC'24
+My name's [Kevin Dang](https://kevin-portfolio-kta0.onrender.com/) - Software Developer
+
+BSc in Computer Science, UBC'24
+
+Based in Toronto, ON
 
 ## Frontend
 - ### Javascript, React.js, Vue.js, D3.js, Node.js [![AWS](https://skillicons.dev/icons?i=js,react,vue,d3,nodejs)](https://drive.google.com/file/d/1uxtN4RPKTYw3AUbuNptKV4wdN9-hF2cf/view)
@@ -12,7 +16,6 @@ My name's [Kevin Dang](https://kevin-portfolio-kta0.onrender.com/) - Bachelor of
 - ### Grafana, Nginx, Vite, NPM, Yarn, Git, Figma  [![AWS](https://skillicons.dev/icons?i=grafana,nginx,vite,npm,yarn,git,figma)](https://drive.google.com/file/d/1uxtN4RPKTYw3AUbuNptKV4wdN9-hF2cf/view)
 
 - #### Currently: I'm working on my AWS Solutions Architect - Associate Certification! [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/certification/)
-- #### Based in Toronto, ON
 - #### Little about me: Avid coffee nut.
 - #### PS: You should try Vietnamese coffee, it's so strong you'd feel sick but good at the same time.
 
