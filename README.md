@@ -3,11 +3,13 @@
 My name's [Kevin Dang](https://kevin-portfolio-kta0.onrender.com/) - Bachelor of Science in Computer Science, UBC'24
 
 ## Frontend
-- ### React, Vue, D3, Javascript [![AWS](https://skillicons.dev/icons?i=react,vue,d3,js)](https://drive.google.com/file/d/1uxtN4RPKTYw3AUbuNptKV4wdN9-hF2cf/view)
+- ### Javascript, React.js, Vue.js, D3.js, Node.js [![AWS](https://skillicons.dev/icons?i=js,react,vue,d3,nodejs)](https://drive.google.com/file/d/1uxtN4RPKTYw3AUbuNptKV4wdN9-hF2cf/view)
 
 ## Backend
 - ### AWS, Python, Java, GraphQL, MySQL [![AWS](https://skillicons.dev/icons?i=aws,python,java,graphql,mysql)](https://drive.google.com/file/d/1uxtN4RPKTYw3AUbuNptKV4wdN9-hF2cf/view)
 
+## Misc
+- ### Grafana, Nginx, Vite, NPM, Yarn, Git, Figma  [![AWS](https://skillicons.dev/icons?i=grafana,nginx,vite,npm,yarn,git,figma)](https://drive.google.com/file/d/1uxtN4RPKTYw3AUbuNptKV4wdN9-hF2cf/view)
 
 - #### Currently: I'm working on my AWS Solutions Architect - Associate Certification! [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/certification/)
 - #### Based in Toronto, ON
